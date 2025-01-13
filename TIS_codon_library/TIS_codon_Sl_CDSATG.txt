@@ -1,0 +1,7 @@
+Codon	Value
+ATG	5.077
+CTG	1.792
+ACG	0.47
+TTG	0.132
+ATC	0.101
+ATT	0.005

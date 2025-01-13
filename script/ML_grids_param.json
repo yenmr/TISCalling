@@ -1,0 +1,88 @@
+{
+    "LogisticRegression": {
+        "C": [
+            0.01,
+            0.1,
+            1,
+            10,
+            100
+        ],
+        "penalty": [
+            "l2"
+        ],
+        "solver": [
+            "lbfgs",
+            "liblinear"
+        ]
+    },
+    "RandomForest": {
+        "n_estimators": [
+            100,
+            200,
+            500
+        ],
+        "max_features": [
+            "sqrt"
+        ],
+        "max_depth": [
+            null,
+            10,
+            20
+        ],
+        "min_samples_split": [
+            2,
+            5
+        ],
+        "min_samples_leaf": [
+            1,
+            2
+        ],
+        "bootstrap": [
+            true
+        ]
+    },
+    "GradientBoosting": {
+        "n_estimators": [
+            100,
+            200
+        ],
+        "learning_rate": [
+            0.01,
+            0.1
+        ],
+        "max_depth": [
+            3,
+            4
+        ],
+        "subsample": [
+            0.9
+        ],
+        "min_samples_split": [
+            2,
+            5
+        ],
+        "min_samples_leaf": [
+            1,
+            2
+        ]
+    },
+    "SVM": {
+        "C": [
+            0.01,
+            0.1,
+            1,
+            10,
+			100
+        ],
+        "kernel": [
+            "linear"
+        ],
+        "gamma": [
+            "scale",
+			"auto"
+        ],
+        "probability": [
+            true
+        ]
+    }
+}

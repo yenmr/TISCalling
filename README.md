@@ -1,6 +1,6 @@
-# TIS Prediction Using Machine Learning
+# TIScalling - TIS Prediction Using Machine Learning
 
-This project focuses on predicting non-canonical Translation Initiation Sites (TIS) in various species using machine learning techniques. The aim is to build a robust classifier that accurately identifies these non-canonical TIS locations based on genomic sequences and other relevant features.
+TIScalling is an open-source project dedicated to predicting non-canonical Translation Initiation Sites (TIS) in transcriptomic data across various species. The project uses advanced machine learning techniques to develop a robust classifier that accurately identifies non-canonical TIS locations based on sequence data and other relevant features.
 
 ## Table of Contents
 
@@ -14,7 +14,7 @@ This project focuses on predicting non-canonical Translation Initiation Sites (T
 8. [License](#license)
 
 ## Introduction
-Translation Initiation Sites (TIS) are critical for protein synthesis, and accurately identifying non-canonical sites can advance our understanding of gene expression regulation across different species. This project leverages machine learning to predict non-canonical TIS, with an emphasis on scalability and accuracy.
+Translation Initiation Sites (TIS) are critical for protein synthesis, and accurately identifying non-canonical sites can advance our understanding of gene expression regulation across different species. This project leverages machine learning to predict non-canonical TIS, emphasizing scalability and accuracy.
 
 ## Features and Dataset
 
@@ -54,7 +54,7 @@ These files serve as a starting point for processing and feature generation duri
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/TIS-prediction.git
+git clone https://github.com/yenmr/TIScalling.git
 cd TIS-prediction
 
 # Install dependencies
@@ -162,15 +162,6 @@ Evaluation metrics include:
 - **ConfusionMatrix**: Detailed classification performance representation.
 
 Results are visualized using confusion matrices, ROC curves, and feature importance plots.
-
-## Contributing
-
-We welcome contributions! Please follow these steps:
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature-branch-name`).
-3. Commit your changes (`git commit -m 'Add some feature'`).
-4. Push to the branch (`git push origin feature-branch-name`).
-5. Open a pull request.
 
 ## License
 

@@ -55,7 +55,7 @@ These files serve as a starting point for processing and feature generation duri
 ```bash
 # Clone the repository
 git clone https://github.com/yenmr/TIScalling.git
-cd TIS-prediction
+cd TIScalling
 
 # Install dependencies
 pip install -r requirements.txt

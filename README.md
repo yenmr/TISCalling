@@ -57,6 +57,10 @@ These files serve as a starting point for processing and feature generation duri
 git clone https://github.com/yenmr/TIScalling.git
 cd TIScalling
 
+# Create Conda environment
+conda create -n TIScalling python=3.10
+conda activate TIScalling
+
 # Install dependencies
 pip install -r requirements.txt
 ```

@@ -123,7 +123,6 @@ python script/train_model.py -feature Features_Sl_5UTRnonATG.txt
 # - `[classifier]_model_importances.tsv`: Importance of each feature for the corresponding classifier.
 # - `Model_evaluation_results.tsv`: Evaluation results of the trained models.
 ```
-```
 
 ### Cross Model Evaluation
 ```bash

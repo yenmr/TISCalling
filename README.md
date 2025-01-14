@@ -10,8 +10,7 @@ TIScalling is an open-source project dedicated to predicting non-canonical Trans
 4. [Usage](#usage)
 5. [Model Training](#model-training)
 6. [Evaluation](#evaluation)
-7. [Contributing](#contributing)
-8. [License](#license)
+7. [License](#license)
 
 ## Introduction
 Translation Initiation Sites (TIS) are critical for protein synthesis, and accurately identifying non-canonical sites can advance our understanding of gene expression regulation across different species. This project leverages machine learning to predict non-canonical TIS, emphasizing scalability and accuracy.

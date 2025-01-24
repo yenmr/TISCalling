@@ -1,6 +1,6 @@
-# TIScalling - TIS Prediction Using Machine Learning
+# TISCalling - TIS Prediction Using Machine Learning
 
-TIScalling is an open-source project dedicated to predicting non-canonical Translation Initiation Sites (TIS) in transcriptomic data across various species. The project uses advanced machine learning techniques to develop a robust classifier that accurately identifies non-canonical TIS locations based on sequence data and other relevant features.
+TISCalling is an open-source project dedicated to predicting non-canonical Translation Initiation Sites (TIS) in transcriptomic data across various species. The project uses advanced machine learning techniques to develop a robust classifier that accurately identifies non-canonical TIS locations based on sequence data and other relevant features.
 
 ## Table of Contents
 
